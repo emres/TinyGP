@@ -1,18 +1,18 @@
 # TinyGP
 This is the Java source code of TinyGP, the genetic programming
 software as described in "[A Field Guide to Genetic
-Programming]([url](http://www.gp-field-guide.org.uk/)http://www.gp-field-guide.org.uk/)"
+Programming](http://www.gp-field-guide.org.uk/)"
 (ISBN 978-1-4092-0073-4) by Riccardo Poli, Bill Langdon, Nic McPhee, published
 in March, 2008 (See also its [Amazon.com
-page]([url](https://www.amazon.com/Field-Guide-Genetic-Programming/dp/1409200736))).
+page](https://www.amazon.com/Field-Guide-Genetic-Programming/dp/1409200736)).
 
 There are few differences from the published paperback version, because a few
 bugs had been reported. The authors of the book described those bugs and their
 fixes in the following blog posts:
 
-* [Bug in TinyGP Java Code]([url](http://www.gp-field-guide.org.uk/2008/05/bug-in-tinygp-java-code.html))
-* [A (potential) bug in TinyGP]([url](http://www.gp-field-guide.org.uk/2008/11/potential-bug-in-tinygp.html))
-* [Another Bug Fixed in TinyGP]([url](http://www.gp-field-guide.org.uk/2009/01/another-bug-fixed-in-tinygp.html))
+* [Bug in TinyGP Java Code](http://www.gp-field-guide.org.uk/2008/05/bug-in-tinygp-java-code.html)
+* [A (potential) bug in TinyGP](http://www.gp-field-guide.org.uk/2008/11/potential-bug-in-tinygp.html)
+* [Another Bug Fixed in TinyGP](http://www.gp-field-guide.org.uk/2009/01/another-bug-fixed-in-tinygp.html)
 
 As described in the book, you can compile TinyGP from the operating system's
 shell, using the following Java compiler command:
@@ -52,7 +52,7 @@ The source code and data file URLs as given in the published version are broken
 at the time of this writing (25 January, 2024) but they are reachable on
 Internet Archive Wayback Machine:
 
-* [TinyGP (also known as Tiny GP) - A Tiny Genetic Programming Implementation (as seen on 6 October 2009)]([url](https://web.archive.org/web/20091006123714/http://cswww.essex.ac.uk/staff/rpoli/TinyGP/)https://web.archive.org/web/20091006123714/http://cswww.essex.ac.uk/staff/rpoli/TinyGP/)
+* [TinyGP (also known as Tiny GP) - A Tiny Genetic Programming Implementation (as seen on 6 October 2009)](https://web.archive.org/web/20091006123714/http://cswww.essex.ac.uk/staff/rpoli/TinyGP/)
 
 Nevertheless, I wanted to have a copy of them in my personal GitHub repository,
 so that I can refer to them later, and maybe even create a modern Java version

@@ -1,4 +1,5 @@
 # TinyGP
+
 This is the Java source code of TinyGP, the genetic programming
 software as described in "[A Field Guide to Genetic
 Programming](http://www.gp-field-guide.org.uk/)"
@@ -6,9 +7,14 @@ Programming](http://www.gp-field-guide.org.uk/)"
 in March, 2008 (See also its [Amazon.com
 page](https://www.amazon.com/Field-Guide-Genetic-Programming/dp/1409200736)).
 
-There are few differences from the published paperback version, because a few
-bugs had been reported. The authors of the book described those bugs and their
-fixes in the following blog posts:
+The code is copied from the book, and I kept the formatting preferred by the
+authors intact. Any errors and bugs that might arise because of this copying
+process is solely my responsibility and should not be attributed to the authors.
+
+There are few differences between the version in this repository and the one in
+the published paperback version, because apparently a few bugs had been reported
+after the book's publication. The authors of the book described those bugs and
+their fixes in the following blog posts:
 
 * [Bug in TinyGP Java Code](http://www.gp-field-guide.org.uk/2008/05/bug-in-tinygp-java-code.html)
 * [A (potential) bug in TinyGP](http://www.gp-field-guide.org.uk/2008/11/potential-bug-in-tinygp.html)
@@ -46,14 +52,26 @@ java tiny_gp SEED FILE
 where SEED is an integer.
 
 For convenience, the example data file is incuded in this repository as
-`problem.dat`. This file's contents are identical to `sin-data.txt`.
+`problem.dat`. This contents are identical to `sin-data.txt`.
 
-The source code and data file URLs as given in the published version are broken
-at the time of this writing (25 January, 2024) but they are reachable on
-Internet Archive Wayback Machine:
+The URLs for source code and data file in the published version are broken at
+the time of this writing (25 January, 2024) but they are reachable on Internet
+Archive Wayback Machine:
 
 * [TinyGP (also known as Tiny GP) - A Tiny Genetic Programming Implementation (as seen on 6 October 2009)](https://web.archive.org/web/20091006123714/http://cswww.essex.ac.uk/staff/rpoli/TinyGP/)
 
 Nevertheless, I wanted to have a copy of them in my personal GitHub repository,
 so that I can refer to them later, and maybe even create a modern Java version
 of the source code by refactoring this original.
+
+## Other relevant repositories on GitHub
+
+There are also a few other repositories on GitHub that have the source code, as
+well as attempts at Java modernisation:
+
+* https://github.com/JesseBuesking/TinyGP-Java
+* https://github.com/marcinkalaus/TinyGP-Java
+* https://github.com/Pandoors/TinyGP
+* https://github.com/Sitaarz/TinyGP-Java
+* https://github.com/tlisowicz/TinyGP-Java
+

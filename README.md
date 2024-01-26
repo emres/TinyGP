@@ -52,7 +52,7 @@ java tiny_gp SEED FILE
 where SEED is an integer.
 
 For convenience, the example data file is incuded in this repository as
-`problem.dat`. This contents are identical to `sin-data.txt`.
+`problem.dat`. It is identical to `sin-data.txt`.
 
 The URLs for source code and data file in the published version are broken at
 the time of this writing (25 January, 2024) but they are reachable on Internet

@@ -13,8 +13,8 @@ process is solely my responsibility and should not be attributed to the authors.
 
 There are few differences between the version in this repository and the one in
 the published paperback version, because apparently a few bugs had been reported
-after the book's publication. The authors of the book described those bugs and
-their fixes in the following blog posts:
+after the book's publication. The authors described those bugs and their fixes
+in the following blog posts:
 
 * [Bug in TinyGP Java Code](http://www.gp-field-guide.org.uk/2008/05/bug-in-tinygp-java-code.html)
 * [A (potential) bug in TinyGP](http://www.gp-field-guide.org.uk/2008/11/potential-bug-in-tinygp.html)

@@ -63,8 +63,8 @@ Archive Wayback Machine:
 * [TinyGP (also known as Tiny GP) - A Tiny Genetic Programming Implementation (as seen on 6 October 2009)](https://web.archive.org/web/20091006123714/http://cswww.essex.ac.uk/staff/rpoli/TinyGP/)
 
 Nevertheless, I wanted to have a copy of them in my personal GitHub repository,
-so that I can refer to them later, and maybe even create a modern Java version
-of the source code by refactoring this original.
+so that I can refer to them later. I also created a modern Java version of the
+source code by refactoring this original: https://github.com/emres/ModernTinyGP
 
 ## Other relevant repositories on GitHub
 

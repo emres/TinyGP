@@ -1,11 +1,13 @@
 # TinyGP
 
-This is the Java source code of TinyGP, the genetic programming
-software as described in "[A Field Guide to Genetic
-Programming](http://www.gp-field-guide.org.uk/)"
-(ISBN 978-1-4092-0073-4) by Riccardo Poli, Bill Langdon, Nic McPhee, published
-in March, 2008 (See also its [Amazon.com
-page](https://www.amazon.com/Field-Guide-Genetic-Programming/dp/1409200736)).
+This is the Java source code of [TinyGP](https://github.com/emres/TinyGP), the
+genetic programming software as described in "[A Field Guide to Genetic
+Programming](http://www.gp-field-guide.org.uk/)" (ISBN 978-1-4092-0073-4) by
+Riccardo Poli, Bill Langdon, Nic McPhee, published in March, 2008 (See also its
+[Amazon.com
+page](https://www.amazon.com/Field-Guide-Genetic-Programming/dp/1409200736)). You
+can also read [my Goodreads
+review](https://www.goodreads.com/review/show/6166473293).
 
 The code is copied from the book, and I kept the formatting preferred by the
 authors intact. Any errors and bugs that might arise because of this copying
